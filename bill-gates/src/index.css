@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 1rem 10%;
+  font-family: "Open Sans", sans-serif; /* Set a default font */
+  background-color: #f4f5f7; /* Light background color to match your design */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}

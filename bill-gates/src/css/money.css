@@ -1,0 +1,12 @@
+.balance-container {
+  position: sticky; /* Sabit pozisyon */
+  top: 0; /* Üstte sabit kalacak */
+  margin-top: 10px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+  background: linear-gradient(90deg, #00c853, #00bfa5);
+  padding: 10px 20px;
+  text-align: center;
+  z-index: 1000; /* Diğer bileşenlerin üstünde görünmesi için */
+}
