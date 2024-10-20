@@ -1,4 +1,4 @@
-# Bill-Gates-Website
+# Bill Gates Website
 
 ## Teknolojiler
 
