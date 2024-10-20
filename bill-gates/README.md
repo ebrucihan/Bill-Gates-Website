@@ -1,8 +1,13 @@
-# React + Vite
+# Bill-Gates-Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Teknolojiler
 
-Currently, two official plugins are available:
+- **React**- Kullanıcı arayüzü oluşturmak için
+- **Vite**- Geliştirme ve derleme aracı
+- **JavaScript**- Uygulamanın işlevselliğini sağlamak için
+- **CSS** - Stil uygulamaları için
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Canlı Site
+Projenin canlı sürümüne [buradan ulaşabilirsiniz](https://glistening-chimera-d37bda.netlify.app/).
+
+
