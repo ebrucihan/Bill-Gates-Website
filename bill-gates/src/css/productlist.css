@@ -7,8 +7,8 @@
   margin: 10px;
   border: 1px;
   background-color: #ffffff;
-  padding: 25px;
-  width: 197px;
+  padding: 40px 40px;
+  width: 300px;
 }
 
 .product-name {
@@ -38,6 +38,7 @@
   border: none;
   cursor: pointer;
   transition: background-color 0.3s;
+  margin-left: auto;
 }
 .sell-button {
   background: #f4f5f7;
@@ -54,12 +55,13 @@
 }
 
 .sell-count-input {
-  width: 40px; /* Genişliği ayarlayın */
+  width: 90%; /* Genişliği ayarlayın */
   padding: 4px;
   text-align: center; /* Ortalanmış metin */
   border: 1px solid #000000; /* Kenarlık */
   margin: 0 10px; /* Butonlar arasında boşluk */
   animation: blink 1s infinite; /* Yanıp sönme animasyonu */
+  margin-left: 13px;
 }
 
 @keyframes blink {
